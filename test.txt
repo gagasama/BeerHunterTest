@@ -1,0 +1,10 @@
+初回時のコミットの仕方
+
+ローカルのリポジトリ$ git init
+ローカルのリポジトリ$ git add コミットするファイル名
+ローカルのリポジトリ$ git commit -m "first commit"
+ローカルのリポジトリ$ git remote add origin "github上のリポジトリのurl"
+ローカルのリポジトリ$ git push -u origin master
+
+以上デス！！
+
